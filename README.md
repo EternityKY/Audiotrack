@@ -1,9 +1,13 @@
+
 # Audiotrack
 
-! REQUIERS FFMPEG
+Audio track is a Windows program that adds new context menu options for .mp4 files.
 
-A simple program made in C++ that adds 2 options in the context menu for the .mp4 files:
-##Separate audio
-  Separates the audio in a .mp3 file.
-##Remove audio
-  Generates a file with the audio track removed.
+## Dependencies
+* ffmpeg
+
+## Installation
+* Download and install [ffmpeg](https://ffmpeg.org/download.html#build-windows) for Windows.
+* Run the executable as administrator.
+
+## Releases
