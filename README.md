@@ -11,3 +11,4 @@ Audio track is a Windows program that adds new context menu options for .mp4 fil
 * Run the executable as administrator.
 
 ## Releases
+Check out the [releases](https://github.com/EternityKY/Audiotrack/releases) page.
