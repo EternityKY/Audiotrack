@@ -2,6 +2,9 @@
 # Audiotrack
 
 Audio track is a Windows program that adds new context menu options for .mp4 files.
+<p align="center">
+<img src="https://i.imgur.com/CDKRrel.gif" alt="Example">
+</p>
 
 ## Dependencies
 * ffmpeg
